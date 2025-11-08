@@ -1,4 +1,4 @@
-track tips daily
-cash/ card tips
-hours
+track tips daily:
+cash/ card tips/
+hours/
 hourly wages
